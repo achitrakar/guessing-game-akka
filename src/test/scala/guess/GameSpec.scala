@@ -1,0 +1,5 @@
+package guess
+
+class GameSpec {
+
+}
